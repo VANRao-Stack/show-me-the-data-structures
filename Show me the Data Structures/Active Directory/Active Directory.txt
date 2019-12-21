@@ -1,0 +1,4 @@
+The active directory code mainly uses recursion to go through all the gropus present within a group to find out whether a particular
+user is present or not. The function return False if its not there and True if the user is present. The final code block takes the sum
+of all these differnt inputs and returns the value, this sum is True if atleast one of the inputs was True and False otherwise. 
+This above function is known as the Boolean OR. 
