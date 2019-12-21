@@ -1,0 +1,4 @@
+In file recursion, the task at hand is to find all files with particular suffix in a given directory, and this can easily be
+achieved using recursion and stacks. Using recursion we can navigate through any single directory and check for the file,
+whereas using the stack we can detect for directories within directories and then navigate through them, once the scan of the 
+current directory is complete. 
