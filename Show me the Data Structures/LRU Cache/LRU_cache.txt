@@ -1,0 +1,5 @@
+The LRU cache was designed using a queue because of as the name suggests the cache is designed to rid of elements that is the 
+'Least Recently Used'. Hence a queue which pops the oldest element is ideally chosen. The queue however has an extra function 
+'REORDER' which is used when an element is accessed from the queue. The reoerder function sends the elements that was requested 
+by the user to its head as it becomes the most recently used element. And since the cache has a maximum of 5 elements in it, the 
+time complexity of the same can be considered to be O(1). 
