@@ -1,0 +1,4 @@
+In Huffman coding two different data structures were utilized, the Binary Tree, and the Priority Queue. The Priority Queue is
+the one that's first initialized, with the charachters being aranged in the order of their priorites (Frequency/count). Once 
+this is done they are then converted into a tree. Once the tree is formed with the data nodes at the leaves, the different code
+for letters is found. A left child is indicated by '0' and a right child by '1'. 
