@@ -1,0 +1,4 @@
+This code block creates a very simplistic model of a blockchain. It consists of three classes a Block class, a Node class and a 
+linked list class. The block class contains different types of information including the time at which the block was created and 
+the data along with the current and previous hash. The node is what primarily contitues the linked list, with it containing an entire
+block as its data and it pointing to the next node in the linked list. 
