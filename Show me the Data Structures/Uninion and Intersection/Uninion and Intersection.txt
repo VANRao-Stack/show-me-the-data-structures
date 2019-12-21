@@ -1,0 +1,3 @@
+This code simply takes in two linked list converts them to a list and then sticks them together if the union function was called
+or else segregates the common elements from the lists to create a new list. This list is then converted to a linked list before 
+returning. 
